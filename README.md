@@ -8,10 +8,12 @@ it is a program where you can use one keyboard between one to two laptops not si
 
 ## how to use it
 -you can use the code by downloading the code and running the ui.py and server.py both can be run on same windows also and the ui.py should be on main computer and the server should be on secondary laptop
-                                              or
+                                              
+                                              --or
                                               
 -you can run the .exe file on main and type the secondary laptop ip and run server.py on the secondary laptop
---dont use VPN and use the same wifi on both laptops if you are using two laptops as it may affect the connection and the python socket can get confused
+
+--**`dont use VPN and use the same wifi on both laptops if you are using two laptops as it may affect the connection and the python socket can get confused`**
 
 ## licence
 MIT use it as you want but don't forget to give me credits

@@ -7,13 +7,18 @@ Hi i am harshit and i am a teen who loves to code so recently i came across a pr
 it is a program where you can use one keyboard between one to two laptops not simultaneously but one at a time without having to physically connect or disconnect anything . It works using sockets and pynput where every key you type gets transferred to the secondary laptop using a connection between the two laptops and then you can use the keyboard on the other laptop also
 
 ## how to use it
--you can use the code by downloading the code and running the ui.py and server.py both can be run on same windows also and the ui.py should be on main computer and the server should be on secondary laptop
-                                              
-                                              --or
-                                              
--you can run the .exe file on main and type the secondary laptop ip and run server.py on the secondary laptop
+* download the code from the github
+* download all libraries mentioned in requirement either download it at once or individually
+* type your secondary laptop ip in the main.py dedicated slot (i have added a comment above it )
+* run the server.py on secondary laptop and the main.py on the main laptop
+* enjoy
+## some error management
+* try disabling the windows firewall for private protection
+* disconnect the VPN
+* change the port number the number which looks like (7777) or anything like this
 
---**`dont use VPN and use the same wifi on both laptops if you are using two laptops as it may affect the connection and the python socket can get confused`**
+## IMPORTANT
+**`dont use VPN`**
 
 ## licence
 MIT use it as you want but don't forget to give me credits

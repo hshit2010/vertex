@@ -8,17 +8,21 @@ it is a program where you can use one keyboard between one to two laptops not si
 
 ## how to use it
 * download the code from the github
-* download all libraries mentioned in requirement either download it at once or individually
+* download all libraries mentioned in requirement either download it at once or individually by using  **`pip install pynput`** in the terminal, powershell, cmd etc 
+* you can get the IP of your secondary laptop if it is linux by running **`hostname -I`** in the terminal and
 * type your secondary laptop ip in the main.py dedicated slot (i have added a comment above it )
 * run the server.py on secondary laptop and the main.py on the main laptop
 * enjoy
 ## some error management
+*if you see something like **`WinError 10013`** then do the steps mentioned on the next lines
 * try disabling the windows firewall for private protection
 * disconnect the VPN
 * change the port number the number which looks like (7777) or anything like this
 
 ## IMPORTANT
-**`dont use VPN`**
+**dont use VPN**
+
+**dont share your IP**
 
 ## licence
 MIT use it as you want but don't forget to give me credits

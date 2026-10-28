@@ -20,10 +20,11 @@ it is a program where you can use one keyboard between one to two laptops not si
 * change the port number the number which looks like (7777) or anything like this
 
 ## IMPORTANT
-**dont use VPN**
+* **dont use VPN**
 
-**dont share your IP**
+* **dont share your IP**
 
+* **THE .exe FILE DOESNT WORK RIGHT NOW SORRY FOR THE TROUBLE**
 ## licence
 MIT use it as you want but don't forget to give me credits
 byee

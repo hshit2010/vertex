@@ -7,7 +7,7 @@ keyboard_typer = keyboard.Controller()
 mouse_controller=mouse.Controller()
 
 receiver = socket.socket(socket.AF_INET ,socket.SOCK_STREAM)
-receiver.bind(("localhost",9999))
+receiver.bind(("0.0.0.0",9999))
 receiver.listen( )
 conn, addr = receiver.accept()
 while True:

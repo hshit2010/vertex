@@ -9,6 +9,7 @@ it is a program where you can use one keyboard between one to two laptops not si
 ## how to download and run it(using .exe)(easy way)
 * go to the releases page on this repo and download the both "for main laptop"and"for secondary laptop" .exe and run the **server.exe** first then the **main.exe**
 * if the "windows protected your PC" page shows up then go to the more info button and click run anyway windows blocks random .exe file from running thats why
+* **you can run the run the software on just one computer just put "localhost" in the ip section and both will get connected**
 * enjoy the software
 
 
@@ -29,6 +30,8 @@ it is a program where you can use one keyboard between one to two laptops not si
 * **dont use VPN**
 
 * **dont share your IP**
+
+* **self connection can make a loop**
 ## licence
 MIT use it as you want but don't forget to give me credits
 byee

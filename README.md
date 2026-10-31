@@ -6,7 +6,13 @@ Hi i am harshit and i am a teen who loves to code so recently i came across a pr
 ## about vertex
 it is a program where you can use one keyboard between one to two laptops not simultaneously but one at a time without having to physically connect or disconnect anything . It works using sockets and pynput where every key you type gets transferred to the secondary laptop using a connection between the two laptops and then you can use the keyboard on the other laptop also
 
-## how to use it
+how to download and run it(using .exe)(easy way)
+*go to the releases page on this repo and download the both "for main laptop"and"for secondary laptop" .exe and run the **server.exe** first then the **main.exe**
+*if the "windows protected your PC" page shows up then go to the more info button and click run anyway windows blocks random .exe file from running thats why
+*enjoy the software
+
+
+## how to use it(using code)(hard way)
 * download the code from the github
 * download all libraries mentioned in requirement either download it at once or individually by using  **`pip install pynput`** in the terminal, powershell, cmd etc 
 * you can get the IP of your secondary laptop if it is linux by running **`hostname -I`** in the terminal and
@@ -23,8 +29,6 @@ it is a program where you can use one keyboard between one to two laptops not si
 * **dont use VPN**
 
 * **dont share your IP**
-
-* **THE .exe FILE DOESNT WORK RIGHT NOW SORRY FOR THE TROUBLE**
 ## licence
 MIT use it as you want but don't forget to give me credits
 byee
